@@ -1,6 +1,6 @@
 {
     "name": "amoy-cli",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Amoy-Cli",
     "main": "bin/index.js",
     "bin": {

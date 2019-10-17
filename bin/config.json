@@ -1,8 +1,8 @@
 {
     "wxgame": {
-        "git": "https://github.com/amoyjs/amoy-minigame.git"
+        "git": "https://github.com/amoyjs/amoy-game-for-wxgame.git"
     },
     "h5": {
-        "git": "https://github.com/amoyjs/amoy-minigame.git"
+        "git": "https://github.com/amoyjs/amoy-game-for-web.git"
     }
 }
